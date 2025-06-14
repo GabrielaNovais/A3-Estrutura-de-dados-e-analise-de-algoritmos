@@ -12,6 +12,13 @@ Este projeto tem como objetivo desenvolver uma aplicação para informar e alert
 - **Hospedagem:** Microsoft Azure  
 - **Ferramentas:** GitHub, Google colab
 
+  Estrutura de dados escolhida
+O modelo Árvore de decisão foi usado devido ao fato que, ela toma decisões com base em condições lógicas sobre os dados, o que a torna extremamente útil em cenários de detecção de fraudes.
+Random Forest é um conjunto de várias árvores de decisão. Cada árvore é treinada com uma amostra aleatória de dados, e com várias variáveis aleatórias.
+A combinação destas múltiplas árvores reduz o overfitting e melhora a generalização, e funciona bem com dados desbalanceados. 
+Cada árvore vê um pedaço diferente da base,  tornando o modelo mais assertivo!
+
+
 Integrantes do Grupo
 - Bárbara Cervígni Silva – RA: 12522225785 barbara123cervigni@gmail.com
 - Gabriela Oliveira Novais – RA: 12522227348 gabinovais.contato@gmail.com
